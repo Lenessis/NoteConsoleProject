@@ -1,0 +1,2 @@
+True Ukonczyc projekt
+False Zdac
